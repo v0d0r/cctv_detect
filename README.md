@@ -1,5 +1,10 @@
 # cctv_detect
 Some scripts to take CCTV motion image capture files and scan for people using Google Vision API.
+Requires: Google Vision API account and python modules to be installed 
+
+
+# Once you have a google vision account and api credentials store them update the bash script and install python modules
+sudo pip install google-cloud-vision
 
 
 - Init script
